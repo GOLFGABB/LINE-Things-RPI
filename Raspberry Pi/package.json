@@ -1,0 +1,15 @@
+{
+  "name": "line-things",
+  "version": "0.0.0",
+  "description": "LINE Things compatible device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wongsathorn",
+  "license": "ISC",
+  "dependencies": {
+    "bleno": "^0.5.0",
+    "onoff": "^3.2.2"
+  }
+}
